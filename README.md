@@ -31,3 +31,30 @@ This project is a smart AI-powered tool that helps students create personalized,
    ```bash
    git clone https://github.com/Rowdy412/study_plan_generator.git
    cd study-plan-generator
+
+2. Install the dependencies:
+pip install -r requirements.txt
+
+3. Run the app:
+streamlit run app.py
+
+📁 Export & Google Calendar Integration
+The study plan can be exported as an Excel file.
+
+This file can be easily converted to CSV and imported into Google Calendar for automated daily study reminders.
+Learn how to import to Google Calendar
+
+📜 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
+
+🙌 Acknowledgements
+
+Microsoft Learn – For foundational AI concepts
+Edunet Foundation – Internship guidance
+Mentor: Karthiga S
+Streamlit & Pandas Community – For documentation and tools
+
+📬 Contact
+Created by Raviraj Ramesh Dahiphale
+Email: 412ravirajrd@gmail.com
+Institution: Dr. D.Y. Patil Group of Institutions (Technical Campus)
